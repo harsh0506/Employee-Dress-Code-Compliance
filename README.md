@@ -92,6 +92,10 @@ dress-code-compliance/
 - [ ] Optimize models for edge deployment
 - [ ] Integrate with attendance systems
 
+## Team members
+1. Harsh Joshi
+2. Rajeshwari Mistri
+3. Parul Kumari
 
 ## 📄 License
 
